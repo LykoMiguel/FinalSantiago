@@ -8,6 +8,9 @@ public class LykoLabAct {
 			
 			//second commit
 			System.out.println("I love SoftEng and Elective");
+		
+			//This is going to fetch to my local machine
+			System.out.println("Good Luck to me");
 
 	}
 
